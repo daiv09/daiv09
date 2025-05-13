@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Voice UI](https://github.com/daiv09/V1.0.0)
 
-- 🌱 I’m currently learning **Vue, SQL**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👯 I’m looking to collaborate on **OSS**
 
