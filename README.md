@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daiwiik Harihar</h1>
-<h3 align="center">A passionate 2nd Year CSE Student at MIT-WPU | Building Cool Stuff with Code, AI & Voice</h3>
+<h3 align="center">A passionate 3rd Year CSE Student at MIT-WPU | Building Cool Stuff with Code, AI & Voice</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=daiv09&label=Profile%20views&color=0e75b6&style=flat" alt="daiv09" />
