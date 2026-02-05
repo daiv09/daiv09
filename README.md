@@ -1,79 +1,120 @@
-<h1 align="center">Hi 👋, I'm Daiwiik Harihar</h1>
-<h3 align="center">A passionate 3rd Year CSE Student at MIT-WPU | Building Cool Stuff with Code, AI & Voice</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Daiwiik%20Harihar&fontSize=80&fontAlign=50&fontAlignY=35&desc=CS%20Undergrad%20%7C%20AI%20Research%20Intern%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=60" alt="Header" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=daiv09&label=Profile%20views&color=0e75b6&style=flat" alt="daiv09" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daiv09&theme=algolia" alt="daiv09" />
+  <a href="https://www.linkedin.com/in/daiwiik-harihar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-</p>
+  <a href="https://daiwiik-harihar-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="mailto:daiwiikharihar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 
-- 🔭 I have completed:  
-  • [Voice-Based UI for Hands-Free Data Entry](https://github.com/daiv09/V1.0.0)  
-  • [Typing Master](https://github.com/daiv09/Typing-Master) – an OOP C++ typing game  
-  • [Fake News AI Detection System](https://github.com/daiv09/Fake-News-AI-Detector) using ML & NLP  
-
-- 🌱 Learning:  
-  • PostgreSQL  
-  • Advanced React & Next.js  
-  • TensorFlow.js  
-
-- 👯 Looking to collaborate on:  
-  • Open Source Projects  
-  • Real-time AI/ML and Web projects  
-
-- 📝 Recent Blog Posts:  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  <br />
+  
+  <img src="https://komarev.com/ghpvc/?username=daiv09&label=Profile%20views&color=0e75b6&style=flat" alt="daiv09" />
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://dev.to/daiv_018"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/28826157"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/daiv09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40" /></a>
-  <a href="https://kaggle.com/daiwiikharihar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-  <a href="https://dribbble.com/daiv09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" /></a>
-  <a href="https://www.behance.net/daiwiikharihar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@daiv"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@daiwiikharihar17147"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/mitwpu_105090"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@daiwiik_harihar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/daiwiikharihar17147"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/daiwiikharihar17147"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@daiwiikharihar17147"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/daiwiikhar3lg3"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-</p>
+I am a **Third-year Computer Science undergraduate** at **MIT-WPU, Pune**[cite: 7, 12]. I specialize in **Deep Learning**, **Computer Vision**, and **Full-Stack Development**, with a passion for building innovation that drives real-world impact[cite: 9].
+
+* 🔭 **Currently working on:** Advanced AI-powered offline exam monitoring systems[cite: 26].
+* 💼 **Experience:** * **Website Developer** at *Paiwand Studio* (Remote)[cite: 18, 19].
+    * **Research Intern** at *COEP Technological University*[cite: 24, 25].
+* 🏆 **Achievements:** Selected for the iOS Student Development Program by Apple and Infosys[cite: 8].
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiv09&show_icons=true&locale=en&layout=compact" alt="daiv09" /></p>
+### 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daiv09&show_icons=true&locale=en" alt="daiv09" /></p>
+Here are some of the projects I've built:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daiv09&" alt="daiv09" /></p>
+#### 🎙️ [Voice-Based User Interface](https://github.com/daiv09/V1.0.0)
+> *Hands-Free Data Entry & Automation*
+* **Tech:** React, Web Speech API, MongoDB, Socket.IO[cite: 40, 41].
+* **Key Feature:** Built an **88.8% accurate** real-time speech-to-text system processing audio in 7 distinct chunks[cite: 40].
+* **Impact:** Enabled multi-user, real-time synchronization for education and medical sectors with exportable transcripts (.txt, .pdf, .csv)[cite: 41, 42].
+
+#### 🏨 Hospitality Hiring Platform
+> *Full-Stack Recruitment System*
+* **Tech:** Next.js, Prisma ORM, PostgreSQL, Vercel[cite: 47].
+* **Key Feature:** Integrated secure authentication, dynamic job listings, and real-time hiring workflows[cite: 46].
+* **Performance:** Utilized serverless architecture for optimized data handling and scalability[cite: 47].
+
+#### ⌨️ [Typing Master OOP](https://github.com/daiv09/Typing-Master)
+> *C++ Command-Line Tool*
+* **Tech:** C++, OOP Principles[cite: 50, 51].
+* **Key Feature:** Modular design incorporating speed/accuracy tracking, progress reports, and customizable word lists[cite: 50, 51].
+
+#### 👁️ AI-Based Offline Exam Monitoring (Research)
+> *Deep Learning Computer Vision Pipeline*
+* **Tech:** PyTorch, Docker, Roboflow, NVIDIA DGX (CUDA 11)[cite: 30].
+* **Scope:** Led the Head Movement Detection module using a custom **3000+ image dataset**[cite: 28].
+* **Outcome:** Detected cheating behaviors (phones, gestures) in real-time[cite: 29].
+
+---
+
+### 📚 Publications
+
+* **Voice-Based User Interface for Hands-Free Data Entry and Automation** *Accepted, Jun 2025* [cite: 33, 35]
+* **Challenges and Opportunities in the Automotive Cybersecurity Landscape** *Book Chapter in Cyber Safety and Reliability Engineering in Automobiles (CSREA2025)* [cite: 36]
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+</div>
+
+---
+
+<div align="center">
+  <h3>Connect with me</h3>
+  <a href="https://www.linkedin.com/in/daiwiik-harihar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@daiwiikharihar17147">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/daiwiikharihar17147">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+</div>
