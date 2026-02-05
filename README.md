@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Daiwiik%20Harihar&fontSize=80&fontAlign=50&fontAlignY=35&desc=CS%20Undergrad%20%7C%20AI%20Research%20Intern%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Daiwiik%20Harihar&fontSize=80&fontAlign=50&fontAlignY=35&desc=CS%20Undergrad%20%7C%20AI%20Research%20Intern%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header" />
 
   <a href="https://www.linkedin.com/in/daiwiik-harihar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://daiwiik-harihar-portfolio.vercel.app/">
+  <a href="https://daiwiik-harihar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
   <a href="mailto:daiwiikharihar@gmail.com">
