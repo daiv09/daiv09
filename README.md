@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Daiwiik%20Harihar&fontSize=80&fontAlign=50&fontAlignY=35&desc=CS%20Undergrad%20%7C%20AI%20Research%20Intern%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Daiwiik%20Harihar&fontSize=75&fontAlign=50&fontAlignY=35&desc=🏆%20Swift%20Student%20Challenge%20Winner%202026%20|%20AI%20Research%20Intern&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header" />
+
+  <h3>🏆 Recognition</h3>
+  <img src="https://img.shields.io/badge/Apple-Swift_Student_Challenge_Winner_2026-gold?style=for-the-badge&logo=apple&logoColor=white" alt="Swift Student Challenge Winner" />
+  <img src="https://img.shields.io/badge/Infosys-iOS_Student_Development_Program-blue?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Student Development" />
+
+  <br />
 
   <a href="https://www.linkedin.com/in/daiwiik-harihar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://daiwiik-harihar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
@@ -12,26 +18,26 @@
   </a>
 
   <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=daiv09&label=Profile%20views&color=0e75b6&style=flat" alt="daiv09" />
+  <img src="https://komarev.com/ghpvc/?username=daiv09&label=Profile%20views&color=0e75b6&style=flat-square" alt="daiv09" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Third-year Computer Science undergraduate** at **MIT-WPU, Pune**[cite: 7, 12]. I specialize in **Deep Learning**, **Computer Vision**, and **Full-Stack Development**, with a passion for building innovation that drives real-world impact[cite: 9].
+I am a **Third-year Computer Science undergraduate** at **MIT-WPU, Pune**. I specialize in **Deep Learning**, **On-Device Machine Learning**, and **Full-Stack Development**. My work focuses on making complex AI concepts accessible through intuitive software design.
 
-* 🔭 **Currently working on:** Advanced AI-powered offline exam monitoring systems[cite: 26].
-* 💼 **Experience:** * **Website Developer** at *Paiwand Studio* (Remote)[cite: 18, 19].
-    * **Research Intern** at *COEP Technological University*[cite: 24, 25].
-* 🏆 **Achievements:** Selected for the iOS Student Development Program by Apple and Infosys[cite: 8].
+* 🍎 **Recent Achievement:** Winner of the **Apple Swift Student Challenge 2026** for my project "How To Train A Model."
+* 🔭 **Currently working on:** Advanced AI-powered offline exam monitoring systems and agentic AI workflows.
+* 💼 **Experience:** Research Intern at **COEP Technological University** & Web Developer at **Paiwand Studio**.
+* 💬 **Ask me about:** iOS Development, PyTorch, Computer Vision, and Next.js.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,44 +67,47 @@ I am a **Third-year Computer Science undergraduate** at **MIT-WPU, Pune**[cite: 
 
 ### 🚀 Featured Projects
 
-Here are some of the projects I've built:
+#### 🧠 [How To Train A Model](https://github.com/daiv09/how-to-train-a-model)
+> **🏆 Swift Student Challenge 2026 Winner**
+* **Tech:** Swift, SwiftUI, CoreML, CreateML, ARKit.
+* **Key Feature:** An interactive lab that allows users to capture data and train machine learning models 100% on-device using the Apple Neural Engine.
+* **Impact:** Demystifies AI for students and hobbyists through real-time hyperparameter tuning and AR-based model testing.
 
 #### 🎙️ [Voice-Based User Interface](https://github.com/daiv09/V1.0.0)
 > *Hands-Free Data Entry & Automation*
-* **Tech:** React, Web Speech API, MongoDB, Socket.IO[cite: 40, 41].
-* **Key Feature:** Built an **88.8% accurate** real-time speech-to-text system processing audio in 7 distinct chunks[cite: 40].
-* **Impact:** Enabled multi-user, real-time synchronization for education and medical sectors with exportable transcripts (.txt, .pdf, .csv)[cite: 41, 42].
+* **Tech:** React, Web Speech API, MongoDB, Socket.IO.
+* **Key Feature:** Built an **88.8% accurate** real-time speech-to-text system processing audio in 7 distinct chunks.
+* **Impact:** Enabled multi-user synchronization for education and medical sectors with exportable transcripts.
 
 #### 🏨 Hospitality Hiring Platform
 > *Full-Stack Recruitment System*
-* **Tech:** Next.js, Prisma ORM, PostgreSQL, Vercel[cite: 47].
-* **Key Feature:** Integrated secure authentication, dynamic job listings, and real-time hiring workflows[cite: 46].
-* **Performance:** Utilized serverless architecture for optimized data handling and scalability[cite: 47].
+* **Tech:** Next.js, Prisma ORM, PostgreSQL, Vercel.
+* **Key Feature:** Integrated secure authentication, dynamic job listings, and real-time hiring workflows.
 
 #### ⌨️ [Typing Master OOP](https://github.com/daiv09/Typing-Master)
 > *C++ Command-Line Tool*
-* **Tech:** C++, OOP Principles[cite: 50, 51].
-* **Key Feature:** Modular design incorporating speed/accuracy tracking, progress reports, and customizable word lists[cite: 50, 51].
+* **Tech:** C++, OOP Principles.
+* **Key Feature:** Modular design incorporating speed/accuracy tracking, progress reports, and customizable word lists.
 
 #### 👁️ AI-Based Offline Exam Monitoring (Research)
 > *Deep Learning Computer Vision Pipeline*
-* **Tech:** PyTorch, Docker, Roboflow, NVIDIA DGX (CUDA 11)[cite: 30].
-* **Scope:** Led the Head Movement Detection module using a custom **3000+ image dataset**[cite: 28].
-* **Outcome:** Detected cheating behaviors (phones, gestures) in real-time[cite: 29].
+* **Tech:** PyTorch, Docker, Roboflow, NVIDIA DGX.
+* **Scope:** Led the Head Movement Detection module using a custom **3000+ image dataset**.
+* **Outcome:** Detected cheating behaviors (phones, gestures) in real-time.
 
 ---
 
 ### 📚 Publications
 
-* **Voice-Based User Interface for Hands-Free Data Entry and Automation** *Accepted, Jun 2025* [cite: 33, 35]
-* **Challenges and Opportunities in the Automotive Cybersecurity Landscape** *Book Chapter in Cyber Safety and Reliability Engineering in Automobiles (CSREA2025)* [cite: 36]
+* **Voice-Based User Interface for Hands-Free Data Entry and Automation** | *Accepted, Jun 2025*
+* **Challenges and Opportunities in the Automotive Cybersecurity Landscape** | *Book Chapter in CSREA2025*
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=daiv09&theme=light&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ---
@@ -107,9 +116,6 @@ Here are some of the projects I've built:
   <h3>Connect with me</h3>
   <a href="https://www.linkedin.com/in/daiwiik-harihar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://medium.com/@daiwiikharihar17147">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
